@@ -1,1 +1,2 @@
 Hello!
+Hedgehogs are cute!
